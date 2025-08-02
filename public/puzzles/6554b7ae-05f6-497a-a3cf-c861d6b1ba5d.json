@@ -1,0 +1,42 @@
+{
+  "id": "6554b7ae-05f6-497a-a3cf-c861d6b1ba5d",
+  "date": "2025-10-22",
+  "items": [
+    {
+      "name": "Types of Shoes",
+      "words": [
+        "Sneakers",
+        "Boots",
+        "Sandals",
+        "Heels"
+      ]
+    },
+    {
+      "name": "Things that are Green",
+      "words": [
+        "Grass",
+        "Lettuce",
+        "Emerald",
+        "Frog"
+      ]
+    },
+    {
+      "name": "Things made of Glass",
+      "words": [
+        "Window",
+        "Mirror",
+        "Bottle",
+        "Vase"
+      ]
+    },
+    {
+      "name": "Types of Pie",
+      "words": [
+        "Apple",
+        "Pumpkin",
+        "Cherry",
+        "Pecan"
+      ]
+    }
+  ]
+}

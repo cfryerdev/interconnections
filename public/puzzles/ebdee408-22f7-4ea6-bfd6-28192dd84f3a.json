@@ -1,0 +1,42 @@
+{
+  "id": "ebdee408-22f7-4ea6-bfd6-28192dd84f3a",
+  "date": "2025-09-03",
+  "items": [
+    {
+      "name": "Things in a Park",
+      "words": [
+        "Bench",
+        "Tree",
+        "Playground",
+        "Path"
+      ]
+    },
+    {
+      "name": "Famous Philosophers",
+      "words": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Kant"
+      ]
+    },
+    {
+      "name": "School Subjects",
+      "words": [
+        "Math",
+        "Science",
+        "History",
+        "English"
+      ]
+    },
+    {
+      "name": "Things in a Theater",
+      "words": [
+        "Stage",
+        "Actor",
+        "Audience",
+        "Curtain"
+      ]
+    }
+  ]
+}

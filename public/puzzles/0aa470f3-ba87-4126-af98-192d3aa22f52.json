@@ -1,0 +1,42 @@
+{
+  "id": "0aa470f3-ba87-4126-af98-192d3aa22f52",
+  "date": "2025-10-17",
+  "items": [
+    {
+      "name": "Famous Philosophers",
+      "words": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Kant"
+      ]
+    },
+    {
+      "name": "Famous Architects",
+      "words": [
+        "Wright",
+        "Gehry",
+        "Foster",
+        "Hadid"
+      ]
+    },
+    {
+      "name": "Things that are Blue",
+      "words": [
+        "Sky",
+        "Ocean",
+        "Jeans",
+        "Sapphire"
+      ]
+    },
+    {
+      "name": "Words ending in -ING",
+      "words": [
+        "Running",
+        "Singing",
+        "Dancing",
+        "Reading"
+      ]
+    }
+  ]
+}

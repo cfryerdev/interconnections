@@ -1,0 +1,42 @@
+{
+  "id": "6b02dab3-ab88-4e11-8814-b7dfeb66a9b7",
+  "date": "2025-09-26",
+  "items": [
+    {
+      "name": "Things that are Red",
+      "words": [
+        "Apple",
+        "Rose",
+        "Strawberry",
+        "Cardinal"
+      ]
+    },
+    {
+      "name": "Things that are Light",
+      "words": [
+        "Feather",
+        "Balloon",
+        "Cloud",
+        "Paper"
+      ]
+    },
+    {
+      "name": "Things in a School",
+      "words": [
+        "Classroom",
+        "Teacher",
+        "Student",
+        "Blackboard"
+      ]
+    },
+    {
+      "name": "Types of Cake",
+      "words": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry",
+        "Carrot"
+      ]
+    }
+  ]
+}

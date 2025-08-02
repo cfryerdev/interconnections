@@ -1,0 +1,42 @@
+{
+  "id": "6341865d-40ee-4802-a9da-124fcbd5db64",
+  "date": "2025-08-09",
+  "items": [
+    {
+      "name": "Types of Trees",
+      "words": [
+        "Oak",
+        "Pine",
+        "Maple",
+        "Birch"
+      ]
+    },
+    {
+      "name": "Famous Comedians",
+      "words": [
+        "Chaplin",
+        "Carlin",
+        "Pryor",
+        "Murphy"
+      ]
+    },
+    {
+      "name": "Card Games",
+      "words": [
+        "Poker",
+        "Bridge",
+        "Hearts",
+        "Spades"
+      ]
+    },
+    {
+      "name": "Fast Food Chains",
+      "words": [
+        "McDonald's",
+        "Burger King",
+        "Subway",
+        "KFC"
+      ]
+    }
+  ]
+}

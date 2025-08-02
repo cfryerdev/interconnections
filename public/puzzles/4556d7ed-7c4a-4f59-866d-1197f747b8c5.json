@@ -1,0 +1,42 @@
+{
+  "id": "4556d7ed-7c4a-4f59-866d-1197f747b8c5",
+  "date": "2025-09-10",
+  "items": [
+    {
+      "name": "Ice Cream Flavors",
+      "words": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Mint"
+      ]
+    },
+    {
+      "name": "Things in a Car",
+      "words": [
+        "Steering Wheel",
+        "Brake",
+        "Radio",
+        "Seat"
+      ]
+    },
+    {
+      "name": "Things that are Slow",
+      "words": [
+        "Turtle",
+        "Snail",
+        "Sloth",
+        "Traffic"
+      ]
+    },
+    {
+      "name": "Things in a Store",
+      "words": [
+        "Cashier",
+        "Cart",
+        "Aisle",
+        "Register"
+      ]
+    }
+  ]
+}

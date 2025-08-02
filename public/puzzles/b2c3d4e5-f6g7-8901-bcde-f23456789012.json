@@ -1,0 +1,22 @@
+{
+  "id": "b2c3d4e5-f6g7-8901-bcde-f23456789012",
+  "date": "2025-08-03",
+  "items": [
+    {
+      "name": "Musical instruments",
+      "words": ["Guitar", "Piano", "Drums", "Violin"]
+    },
+    {
+      "name": "Ocean creatures",
+      "words": ["Shark", "Whale", "Dolphin", "Octopus"]
+    },
+    {
+      "name": "Social media platforms",
+      "words": ["Facebook", "Twitter", "Instagram", "TikTok"]
+    },
+    {
+      "name": "Coffee drinks",
+      "words": ["Latte", "Cappuccino", "Espresso", "Mocha"]
+    }
+  ]
+}

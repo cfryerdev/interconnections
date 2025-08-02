@@ -1,0 +1,22 @@
+{
+  "id": "e5f6g7h8-i9j0-1234-efgh-567890123456",
+  "date": "2025-08-06",
+  "items": [
+    {
+      "name": "Car parts",
+      "words": ["Engine", "Tire", "Brake", "Steering"]
+    },
+    {
+      "name": "Types of flowers",
+      "words": ["Tulip", "Daisy", "Sunflower", "Lily"]
+    },
+    {
+      "name": "Computer components",
+      "words": ["Processor", "Memory", "Keyboard", "Monitor"]
+    },
+    {
+      "name": "Ice cream flavors",
+      "words": ["Vanilla", "Chocolate", "Strawberry", "Mint"]
+    }
+  ]
+}

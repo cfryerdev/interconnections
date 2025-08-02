@@ -1,0 +1,42 @@
+{
+  "id": "c9c2d8a5-224c-4b25-baf4-fe71c18f2d5b",
+  "date": "2025-08-19",
+  "items": [
+    {
+      "name": "Fast Food Chains",
+      "words": [
+        "McDonald's",
+        "Burger King",
+        "Subway",
+        "KFC"
+      ]
+    },
+    {
+      "name": "Types of Books",
+      "words": [
+        "Novel",
+        "Biography",
+        "Poetry",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Dog Breeds",
+      "words": [
+        "Labrador",
+        "Poodle",
+        "Bulldog",
+        "Beagle"
+      ]
+    },
+    {
+      "name": "Things that are Hard",
+      "words": [
+        "Rock",
+        "Diamond",
+        "Steel",
+        "Concrete"
+      ]
+    }
+  ]
+}

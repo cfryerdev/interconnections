@@ -1,0 +1,42 @@
+{
+  "id": "85e99b01-8c70-442f-961b-c505f34180f8",
+  "date": "2025-09-20",
+  "items": [
+    {
+      "name": "Types of Shoes",
+      "words": [
+        "Sneakers",
+        "Boots",
+        "Sandals",
+        "Heels"
+      ]
+    },
+    {
+      "name": "Famous Scientists",
+      "words": [
+        "Einstein",
+        "Newton",
+        "Darwin",
+        "Curie"
+      ]
+    },
+    {
+      "name": "Famous Fashion Designers",
+      "words": [
+        "Chanel",
+        "Versace",
+        "Armani",
+        "Prada"
+      ]
+    },
+    {
+      "name": "Things in a Hospital",
+      "words": [
+        "Doctor",
+        "Nurse",
+        "Bed",
+        "Medicine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "503f5a99-2fce-4233-b954-10dde17c28e9",
+  "date": "2025-09-22",
+  "items": [
+    {
+      "name": "Things that are Hot",
+      "words": [
+        "Fire",
+        "Sun",
+        "Pepper",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Types of Nut",
+      "words": [
+        "Almond",
+        "Walnut",
+        "Peanut",
+        "Cashew"
+      ]
+    },
+    {
+      "name": "Video Game Consoles",
+      "words": [
+        "PlayStation",
+        "Xbox",
+        "Nintendo",
+        "Switch"
+      ]
+    },
+    {
+      "name": "Ice Cream Flavors",
+      "words": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Mint"
+      ]
+    }
+  ]
+}

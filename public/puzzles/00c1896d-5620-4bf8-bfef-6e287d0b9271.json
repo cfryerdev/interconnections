@@ -1,0 +1,42 @@
+{
+  "id": "00c1896d-5620-4bf8-bfef-6e287d0b9271",
+  "date": "2025-09-02",
+  "items": [
+    {
+      "name": "Things that are Smooth",
+      "words": [
+        "Glass",
+        "Silk",
+        "Ice",
+        "Marble"
+      ]
+    },
+    {
+      "name": "Famous Musicians",
+      "words": [
+        "Beatles",
+        "Elvis",
+        "Madonna",
+        "Prince"
+      ]
+    },
+    {
+      "name": "Things that are Cold",
+      "words": [
+        "Ice",
+        "Snow",
+        "Refrigerator",
+        "Antarctica"
+      ]
+    },
+    {
+      "name": "Things in a Park",
+      "words": [
+        "Bench",
+        "Tree",
+        "Playground",
+        "Path"
+      ]
+    }
+  ]
+}

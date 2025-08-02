@@ -1,0 +1,42 @@
+{
+  "id": "602fbe75-2da4-4c37-8e8b-f2fb6fed121f",
+  "date": "2025-10-18",
+  "items": [
+    {
+      "name": "Types of Soup",
+      "words": [
+        "Chicken",
+        "Tomato",
+        "Vegetable",
+        "Noodle"
+      ]
+    },
+    {
+      "name": "Things that are Slow",
+      "words": [
+        "Turtle",
+        "Snail",
+        "Sloth",
+        "Traffic"
+      ]
+    },
+    {
+      "name": "Famous Explorers",
+      "words": [
+        "Columbus",
+        "Magellan",
+        "Cook",
+        "Lewis"
+      ]
+    },
+    {
+      "name": "Olympic Sports",
+      "words": [
+        "Swimming",
+        "Gymnastics",
+        "Track",
+        "Boxing"
+      ]
+    }
+  ]
+}

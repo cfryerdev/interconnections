@@ -1,0 +1,42 @@
+{
+  "id": "c96d479a-c448-45ce-9a76-5136fc6fca25",
+  "date": "2025-11-12",
+  "items": [
+    {
+      "name": "Types of Trees",
+      "words": [
+        "Oak",
+        "Pine",
+        "Maple",
+        "Birch"
+      ]
+    },
+    {
+      "name": "Things that are Hard",
+      "words": [
+        "Rock",
+        "Diamond",
+        "Steel",
+        "Concrete"
+      ]
+    },
+    {
+      "name": "Board Games",
+      "words": [
+        "Monopoly",
+        "Scrabble",
+        "Chess",
+        "Checkers"
+      ]
+    },
+    {
+      "name": "Things in a Kitchen",
+      "words": [
+        "Stove",
+        "Refrigerator",
+        "Sink",
+        "Counter"
+      ]
+    }
+  ]
+}

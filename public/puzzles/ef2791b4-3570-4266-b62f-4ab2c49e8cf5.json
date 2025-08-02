@@ -1,0 +1,42 @@
+{
+  "id": "ef2791b4-3570-4266-b62f-4ab2c49e8cf5",
+  "date": "2025-08-07",
+  "items": [
+    {
+      "name": "Kitchen Appliances",
+      "words": [
+        "Microwave",
+        "Blender",
+        "Toaster",
+        "Mixer"
+      ]
+    },
+    {
+      "name": "Things in a Bedroom",
+      "words": [
+        "Bed",
+        "Pillow",
+        "Dresser",
+        "Lamp"
+      ]
+    },
+    {
+      "name": "Things in a School",
+      "words": [
+        "Classroom",
+        "Teacher",
+        "Student",
+        "Blackboard"
+      ]
+    },
+    {
+      "name": "Coffee Shop Orders",
+      "words": [
+        "Latte",
+        "Espresso",
+        "Cappuccino",
+        "Americano"
+      ]
+    }
+  ]
+}

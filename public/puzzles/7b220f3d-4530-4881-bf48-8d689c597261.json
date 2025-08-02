@@ -1,0 +1,42 @@
+{
+  "id": "7b220f3d-4530-4881-bf48-8d689c597261",
+  "date": "2025-09-06",
+  "items": [
+    {
+      "name": "Types of Spice",
+      "words": [
+        "Salt",
+        "Pepper",
+        "Cinnamon",
+        "Paprika"
+      ]
+    },
+    {
+      "name": "Famous Architects",
+      "words": [
+        "Wright",
+        "Gehry",
+        "Foster",
+        "Hadid"
+      ]
+    },
+    {
+      "name": "Things in a Hotel",
+      "words": [
+        "Room",
+        "Lobby",
+        "Elevator",
+        "Reception"
+      ]
+    },
+    {
+      "name": "Card Games",
+      "words": [
+        "Poker",
+        "Bridge",
+        "Hearts",
+        "Spades"
+      ]
+    }
+  ]
+}

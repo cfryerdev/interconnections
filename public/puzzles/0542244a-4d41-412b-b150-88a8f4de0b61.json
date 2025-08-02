@@ -1,0 +1,42 @@
+{
+  "id": "0542244a-4d41-412b-b150-88a8f4de0b61",
+  "date": "2025-08-28",
+  "items": [
+    {
+      "name": "Things in a Hotel",
+      "words": [
+        "Room",
+        "Lobby",
+        "Elevator",
+        "Reception"
+      ]
+    },
+    {
+      "name": "Coffee Shop Orders",
+      "words": [
+        "Latte",
+        "Espresso",
+        "Cappuccino",
+        "Americano"
+      ]
+    },
+    {
+      "name": "Things that are Smooth",
+      "words": [
+        "Glass",
+        "Silk",
+        "Ice",
+        "Marble"
+      ]
+    },
+    {
+      "name": "Things that are Slow",
+      "words": [
+        "Turtle",
+        "Snail",
+        "Sloth",
+        "Traffic"
+      ]
+    }
+  ]
+}

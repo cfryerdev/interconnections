@@ -1,0 +1,42 @@
+{
+  "id": "1eaae458-929e-498b-a268-23f1c4e6f6ab",
+  "date": "2025-10-04",
+  "items": [
+    {
+      "name": "Things that are Green",
+      "words": [
+        "Grass",
+        "Lettuce",
+        "Emerald",
+        "Frog"
+      ]
+    },
+    {
+      "name": "Things made of Glass",
+      "words": [
+        "Window",
+        "Mirror",
+        "Bottle",
+        "Vase"
+      ]
+    },
+    {
+      "name": "Types of Hat",
+      "words": [
+        "Baseball",
+        "Fedora",
+        "Beanie",
+        "Beret"
+      ]
+    },
+    {
+      "name": "Things in a Museum",
+      "words": [
+        "Exhibit",
+        "Guide",
+        "Artifact",
+        "Display"
+      ]
+    }
+  ]
+}

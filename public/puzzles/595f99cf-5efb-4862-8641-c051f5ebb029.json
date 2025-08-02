@@ -1,0 +1,42 @@
+{
+  "id": "595f99cf-5efb-4862-8641-c051f5ebb029",
+  "date": "2025-08-29",
+  "items": [
+    {
+      "name": "Types of Candy",
+      "words": [
+        "Chocolate",
+        "Gummy",
+        "Lollipop",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Coffee Shop Orders",
+      "words": [
+        "Latte",
+        "Espresso",
+        "Cappuccino",
+        "Americano"
+      ]
+    },
+    {
+      "name": "Breakfast Foods",
+      "words": [
+        "Pancakes",
+        "Cereal",
+        "Toast",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Types of Shoes",
+      "words": [
+        "Sneakers",
+        "Boots",
+        "Sandals",
+        "Heels"
+      ]
+    }
+  ]
+}

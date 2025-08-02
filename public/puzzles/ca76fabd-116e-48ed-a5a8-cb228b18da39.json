@@ -1,0 +1,42 @@
+{
+  "id": "ca76fabd-116e-48ed-a5a8-cb228b18da39",
+  "date": "2025-10-13",
+  "items": [
+    {
+      "name": "Social Media Platforms",
+      "words": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ]
+    },
+    {
+      "name": "Things in a Bathroom",
+      "words": [
+        "Toilet",
+        "Sink",
+        "Shower",
+        "Mirror"
+      ]
+    },
+    {
+      "name": "Computer Parts",
+      "words": [
+        "Monitor",
+        "Keyboard",
+        "Mouse",
+        "Speaker"
+      ]
+    },
+    {
+      "name": "Things in a Gym",
+      "words": [
+        "Weights",
+        "Mirror",
+        "Trainer",
+        "Locker"
+      ]
+    }
+  ]
+}

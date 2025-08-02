@@ -1,0 +1,42 @@
+{
+  "id": "78486a9d-8f92-461b-918f-a02527362602",
+  "date": "2025-08-14",
+  "items": [
+    {
+      "name": "Things in a Zoo",
+      "words": [
+        "Animals",
+        "Cage",
+        "Zookeeper",
+        "Visitor"
+      ]
+    },
+    {
+      "name": "Things in a Gym",
+      "words": [
+        "Weights",
+        "Mirror",
+        "Trainer",
+        "Locker"
+      ]
+    },
+    {
+      "name": "Famous Explorers",
+      "words": [
+        "Columbus",
+        "Magellan",
+        "Cook",
+        "Lewis"
+      ]
+    },
+    {
+      "name": "Things that Fly",
+      "words": [
+        "Airplane",
+        "Bird",
+        "Helicopter",
+        "Butterfly"
+      ]
+    }
+  ]
+}

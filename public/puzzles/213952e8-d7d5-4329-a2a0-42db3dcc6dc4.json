@@ -1,0 +1,42 @@
+{
+  "id": "213952e8-d7d5-4329-a2a0-42db3dcc6dc4",
+  "date": "2025-11-01",
+  "items": [
+    {
+      "name": "Things that are Slow",
+      "words": [
+        "Turtle",
+        "Snail",
+        "Sloth",
+        "Traffic"
+      ]
+    },
+    {
+      "name": "Social Media Platforms",
+      "words": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ]
+    },
+    {
+      "name": "Olympic Sports",
+      "words": [
+        "Swimming",
+        "Gymnastics",
+        "Track",
+        "Boxing"
+      ]
+    },
+    {
+      "name": "Types of Fruit",
+      "words": [
+        "Apple",
+        "Orange",
+        "Banana",
+        "Grape"
+      ]
+    }
+  ]
+}

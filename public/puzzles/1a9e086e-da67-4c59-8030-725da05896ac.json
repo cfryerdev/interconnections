@@ -1,0 +1,42 @@
+{
+  "id": "1a9e086e-da67-4c59-8030-725da05896ac",
+  "date": "2025-08-22",
+  "items": [
+    {
+      "name": "Breakfast Foods",
+      "words": [
+        "Pancakes",
+        "Cereal",
+        "Toast",
+        "Eggs"
+      ]
+    },
+    {
+      "name": "Famous Marys",
+      "words": [
+        "Poppins",
+        "Magdalene",
+        "Queen",
+        "Tyler Moore"
+      ]
+    },
+    {
+      "name": "Words ending in -ING",
+      "words": [
+        "Running",
+        "Singing",
+        "Dancing",
+        "Reading"
+      ]
+    },
+    {
+      "name": "Ice Cream Flavors",
+      "words": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Mint"
+      ]
+    }
+  ]
+}

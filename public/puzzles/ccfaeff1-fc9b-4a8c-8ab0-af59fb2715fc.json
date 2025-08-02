@@ -1,0 +1,42 @@
+{
+  "id": "ccfaeff1-fc9b-4a8c-8ab0-af59fb2715fc",
+  "date": "2025-09-14",
+  "items": [
+    {
+      "name": "Types of Fruit",
+      "words": [
+        "Apple",
+        "Orange",
+        "Banana",
+        "Grape"
+      ]
+    },
+    {
+      "name": "Famous Presidents",
+      "words": [
+        "Washington",
+        "Lincoln",
+        "Kennedy",
+        "Roosevelt"
+      ]
+    },
+    {
+      "name": "Famous Architects",
+      "words": [
+        "Wright",
+        "Gehry",
+        "Foster",
+        "Hadid"
+      ]
+    },
+    {
+      "name": "Types of Tea",
+      "words": [
+        "Green",
+        "Black",
+        "Herbal",
+        "Oolong"
+      ]
+    }
+  ]
+}

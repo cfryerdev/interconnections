@@ -1,0 +1,42 @@
+{
+  "id": "c9af7a55-7231-4ebc-8be7-52db3b57e1a6",
+  "date": "2025-11-13",
+  "items": [
+    {
+      "name": "Coffee Shop Orders",
+      "words": [
+        "Latte",
+        "Espresso",
+        "Cappuccino",
+        "Americano"
+      ]
+    },
+    {
+      "name": "Types of Hat",
+      "words": [
+        "Baseball",
+        "Fedora",
+        "Beanie",
+        "Beret"
+      ]
+    },
+    {
+      "name": "TV Genres",
+      "words": [
+        "Comedy",
+        "Drama",
+        "Reality",
+        "News"
+      ]
+    },
+    {
+      "name": "Things that are Heavy",
+      "words": [
+        "Elephant",
+        "Car",
+        "Piano",
+        "Boulder"
+      ]
+    }
+  ]
+}

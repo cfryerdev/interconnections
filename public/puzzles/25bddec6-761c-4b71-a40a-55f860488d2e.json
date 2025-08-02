@@ -1,0 +1,42 @@
+{
+  "id": "25bddec6-761c-4b71-a40a-55f860488d2e",
+  "date": "2025-08-15",
+  "items": [
+    {
+      "name": "Pizza Toppings",
+      "words": [
+        "Pepperoni",
+        "Mushrooms",
+        "Sausage",
+        "Peppers"
+      ]
+    },
+    {
+      "name": "Things that are Rough",
+      "words": [
+        "Sandpaper",
+        "Bark",
+        "Gravel",
+        "Stubble"
+      ]
+    },
+    {
+      "name": "Types of Fruit",
+      "words": [
+        "Apple",
+        "Orange",
+        "Banana",
+        "Grape"
+      ]
+    },
+    {
+      "name": "Types of Bread",
+      "words": [
+        "White",
+        "Wheat",
+        "Rye",
+        "Sourdough"
+      ]
+    }
+  ]
+}

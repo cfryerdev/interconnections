@@ -1,0 +1,42 @@
+{
+  "id": "644e7ccd-5f6c-45c9-bc3e-018b6629981b",
+  "date": "2025-10-16",
+  "items": [
+    {
+      "name": "Things that are Soft",
+      "words": [
+        "Pillow",
+        "Cotton",
+        "Fur",
+        "Silk"
+      ]
+    },
+    {
+      "name": "Musical Instruments",
+      "words": [
+        "Piano",
+        "Guitar",
+        "Violin",
+        "Drums"
+      ]
+    },
+    {
+      "name": "Famous Philosophers",
+      "words": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Kant"
+      ]
+    },
+    {
+      "name": "Types of Hat",
+      "words": [
+        "Baseball",
+        "Fedora",
+        "Beanie",
+        "Beret"
+      ]
+    }
+  ]
+}

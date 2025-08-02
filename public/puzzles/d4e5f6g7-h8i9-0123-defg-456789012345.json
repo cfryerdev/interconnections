@@ -1,0 +1,22 @@
+{
+  "id": "d4e5f6g7-h8i9-0123-defg-456789012345",
+  "date": "2025-08-05",
+  "items": [
+    {
+      "name": "Space objects",
+      "words": ["Planet", "Star", "Moon", "Comet"]
+    },
+    {
+      "name": "Board games",
+      "words": ["Chess", "Checkers", "Monopoly", "Scrabble"]
+    },
+    {
+      "name": "Kitchen utensils",
+      "words": ["Knife", "Fork", "Spoon", "Spatula"]
+    },
+    {
+      "name": "Dog breeds",
+      "words": ["Labrador", "Bulldog", "Poodle", "Beagle"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "55874d65-acc4-4c40-a685-c1708eea2cae",
+  "date": "2025-10-02",
+  "items": [
+    {
+      "name": "Types of Shoes",
+      "words": [
+        "Sneakers",
+        "Boots",
+        "Sandals",
+        "Heels"
+      ]
+    },
+    {
+      "name": "Dog Breeds",
+      "words": [
+        "Labrador",
+        "Poodle",
+        "Bulldog",
+        "Beagle"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "words": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Pizza Toppings",
+      "words": [
+        "Pepperoni",
+        "Mushrooms",
+        "Sausage",
+        "Peppers"
+      ]
+    }
+  ]
+}

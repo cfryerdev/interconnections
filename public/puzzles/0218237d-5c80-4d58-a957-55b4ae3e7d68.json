@@ -1,0 +1,42 @@
+{
+  "id": "0218237d-5c80-4d58-a957-55b4ae3e7d68",
+  "date": "2025-09-07",
+  "items": [
+    {
+      "name": "Board Games",
+      "words": [
+        "Monopoly",
+        "Scrabble",
+        "Chess",
+        "Checkers"
+      ]
+    },
+    {
+      "name": "Weather Phenomena",
+      "words": [
+        "Rain",
+        "Snow",
+        "Thunder",
+        "Lightning"
+      ]
+    },
+    {
+      "name": "Things in a Theater",
+      "words": [
+        "Stage",
+        "Actor",
+        "Audience",
+        "Curtain"
+      ]
+    },
+    {
+      "name": "Famous Photographers",
+      "words": [
+        "Adams",
+        "Leibovitz",
+        "Cartier",
+        "Avedon"
+      ]
+    }
+  ]
+}

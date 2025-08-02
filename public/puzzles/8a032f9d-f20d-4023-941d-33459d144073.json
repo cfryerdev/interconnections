@@ -1,0 +1,42 @@
+{
+  "id": "8a032f9d-f20d-4023-941d-33459d144073",
+  "date": "2025-11-02",
+  "items": [
+    {
+      "name": "Movies with 'The'",
+      "words": [
+        "Matrix",
+        "Departed",
+        "Godfather",
+        "Shining"
+      ]
+    },
+    {
+      "name": "Famous Photographers",
+      "words": [
+        "Adams",
+        "Leibovitz",
+        "Cartier",
+        "Avedon"
+      ]
+    },
+    {
+      "name": "Types of Nut",
+      "words": [
+        "Almond",
+        "Walnut",
+        "Peanut",
+        "Cashew"
+      ]
+    },
+    {
+      "name": "Fast Food Chains",
+      "words": [
+        "McDonald's",
+        "Burger King",
+        "Subway",
+        "KFC"
+      ]
+    }
+  ]
+}

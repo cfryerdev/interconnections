@@ -1,0 +1,22 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "date": "2025-08-02",
+  "items": [
+    {
+      "name": "Pizza toppings",
+      "words": ["Pepperoni", "Mushroom", "Sausage", "Cheese"]
+    },
+    {
+      "name": "Things that are red",
+      "words": ["Apple", "Fire", "Rose", "Blood"]
+    },
+    {
+      "name": "Card game terms",
+      "words": ["Deal", "Fold", "Raise", "Bluff"]
+    },
+    {
+      "name": "Types of clouds",
+      "words": ["Cumulus", "Stratus", "Cirrus", "Nimbus"]
+    }
+  ]
+}

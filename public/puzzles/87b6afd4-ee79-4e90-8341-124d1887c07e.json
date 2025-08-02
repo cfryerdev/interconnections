@@ -1,0 +1,42 @@
+{
+  "id": "87b6afd4-ee79-4e90-8341-124d1887c07e",
+  "date": "2025-08-24",
+  "items": [
+    {
+      "name": "Things in a Store",
+      "words": [
+        "Cashier",
+        "Cart",
+        "Aisle",
+        "Register"
+      ]
+    },
+    {
+      "name": "Things that are Heavy",
+      "words": [
+        "Elephant",
+        "Car",
+        "Piano",
+        "Boulder"
+      ]
+    },
+    {
+      "name": "Types of Tea",
+      "words": [
+        "Green",
+        "Black",
+        "Herbal",
+        "Oolong"
+      ]
+    },
+    {
+      "name": "Types of Nut",
+      "words": [
+        "Almond",
+        "Walnut",
+        "Peanut",
+        "Cashew"
+      ]
+    }
+  ]
+}

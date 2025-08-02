@@ -1,0 +1,42 @@
+{
+  "id": "1539f8fc-c243-4720-b2e4-908b6d43c288",
+  "date": "2025-08-31",
+  "items": [
+    {
+      "name": "Types of Candy",
+      "words": [
+        "Chocolate",
+        "Gummy",
+        "Lollipop",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Things that are Green",
+      "words": [
+        "Grass",
+        "Lettuce",
+        "Emerald",
+        "Frog"
+      ]
+    },
+    {
+      "name": "Things that are Quiet",
+      "words": [
+        "Library",
+        "Mouse",
+        "Whisper",
+        "Sleep"
+      ]
+    },
+    {
+      "name": "Famous Scientists",
+      "words": [
+        "Einstein",
+        "Newton",
+        "Darwin",
+        "Curie"
+      ]
+    }
+  ]
+}

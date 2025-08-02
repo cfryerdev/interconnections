@@ -1,0 +1,42 @@
+{
+  "id": "7552d3a7-d46a-49db-a5d2-41785b130c18",
+  "date": "2025-09-21",
+  "items": [
+    {
+      "name": "Types of Cheese",
+      "words": [
+        "Cheddar",
+        "Swiss",
+        "Brie",
+        "Gouda"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "words": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Famous Presidents",
+      "words": [
+        "Washington",
+        "Lincoln",
+        "Kennedy",
+        "Roosevelt"
+      ]
+    },
+    {
+      "name": "Types of Spice",
+      "words": [
+        "Salt",
+        "Pepper",
+        "Cinnamon",
+        "Paprika"
+      ]
+    }
+  ]
+}

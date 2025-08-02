@@ -1,0 +1,42 @@
+{
+  "id": "bc2fab38-17d8-4204-8b85-4ea19c978b87",
+  "date": "2025-10-28",
+  "items": [
+    {
+      "name": "Things that are Rough",
+      "words": [
+        "Sandpaper",
+        "Bark",
+        "Gravel",
+        "Stubble"
+      ]
+    },
+    {
+      "name": "Kitchen Utensils",
+      "words": [
+        "Spoon",
+        "Fork",
+        "Knife",
+        "Spatula"
+      ]
+    },
+    {
+      "name": "Types of Vegetable",
+      "words": [
+        "Carrot",
+        "Broccoli",
+        "Lettuce",
+        "Tomato"
+      ]
+    },
+    {
+      "name": "Things in a Car",
+      "words": [
+        "Steering Wheel",
+        "Brake",
+        "Radio",
+        "Seat"
+      ]
+    }
+  ]
+}

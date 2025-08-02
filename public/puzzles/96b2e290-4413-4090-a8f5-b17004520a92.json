@@ -1,0 +1,42 @@
+{
+  "id": "96b2e290-4413-4090-a8f5-b17004520a92",
+  "date": "2025-10-15",
+  "items": [
+    {
+      "name": "Types of Dance",
+      "words": [
+        "Ballet",
+        "Salsa",
+        "Hip Hop",
+        "Waltz"
+      ]
+    },
+    {
+      "name": "Famous Comedians",
+      "words": [
+        "Chaplin",
+        "Carlin",
+        "Pryor",
+        "Murphy"
+      ]
+    },
+    {
+      "name": "Things that Fly",
+      "words": [
+        "Airplane",
+        "Bird",
+        "Helicopter",
+        "Butterfly"
+      ]
+    },
+    {
+      "name": "Social Media Platforms",
+      "words": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "TikTok"
+      ]
+    }
+  ]
+}

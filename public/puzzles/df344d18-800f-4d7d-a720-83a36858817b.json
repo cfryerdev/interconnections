@@ -1,0 +1,42 @@
+{
+  "id": "df344d18-800f-4d7d-a720-83a36858817b",
+  "date": "2025-09-30",
+  "items": [
+    {
+      "name": "Types of Cheese",
+      "words": [
+        "Cheddar",
+        "Swiss",
+        "Brie",
+        "Gouda"
+      ]
+    },
+    {
+      "name": "School Subjects",
+      "words": [
+        "Math",
+        "Science",
+        "History",
+        "English"
+      ]
+    },
+    {
+      "name": "Famous Musicians",
+      "words": [
+        "Beatles",
+        "Elvis",
+        "Madonna",
+        "Prince"
+      ]
+    },
+    {
+      "name": "Things that are Slow",
+      "words": [
+        "Turtle",
+        "Snail",
+        "Sloth",
+        "Traffic"
+      ]
+    }
+  ]
+}
