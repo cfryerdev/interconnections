@@ -4,6 +4,7 @@ import { loadPuzzle, shuffleArray, getRandomPuzzleId } from '../utils/puzzleLoad
 import WordGrid from './WordGrid';
 import CategoryResult from './CategoryResult';
 import GameControls from './GameControls';
+import packageJson from '../../package.json';
 
 const ConnectionsGame = () => {
   const { puzzleId } = useParams();
@@ -16,6 +17,7 @@ const ConnectionsGame = () => {
   const [gameStatus, setGameStatus] = useState('playing');
   const [loading, setLoading] = useState(true);
   const [oneAwayMessage, setOneAwayMessage] = useState('');
+  const [showHowToPlay, setShowHowToPlay] = useState(false);
 
   useEffect(() => {
     initializeGame();
@@ -84,15 +86,14 @@ const ConnectionsGame = () => {
       if (oneAwayCategory) {
         setOneAwayMessage('One away!');
         setTimeout(() => setOneAwayMessage(''), 2000);
-        // Don't deselect words when one away
-      } else {
-        setSelectedWords([]);
       }
+      // Keep selections for all wrong answers - don't deselect
       
       if (newMistakes >= 4) {
         setGameStatus('lost');
         const allFoundCategories = puzzle.items;
         setFoundCategories(allFoundCategories);
+        setWords([]); // Clear remaining words when game is lost
       }
     }
   };
@@ -139,16 +140,21 @@ const ConnectionsGame = () => {
   return (
     <div className="min-h-screen bg-white p-4">
       <div className="max-w-2xl mx-auto">
-        <h1 className="text-3xl font-bold text-center mb-0 text-gray-900">
-          Interconnections
-        </h1>
+        <div className="relative text-center mb-0">
+          <h1 className="text-3xl font-bold text-gray-900">
+            Interconnections
+          </h1>
+          <span className="absolute top-0 right-0 transform translate-x-2 -translate-y-2 bg-blue-500 text-white text-xs px-2 py-1 rounded-full font-medium">
+            v{packageJson.version}
+          </span>
+        </div>
         
         {puzzle && (
           <div className="text-center mb-6">
             <div className="flex items-center justify-center gap-3 text-sm text-gray-500 mb-2">
               <span>Puzzle: {puzzle.id}</span>
             </div>
-            <div className="text-center mb-2">
+            <div className="flex justify-center gap-3 mb-2">
               <button
                 onClick={() => {
                   const randomId = getRandomPuzzleId(puzzle.id);
@@ -158,6 +164,13 @@ const ConnectionsGame = () => {
                 title="Load random puzzle"
               >
                 Random Puzzle
+              </button>
+              <button
+                onClick={() => setShowHowToPlay(true)}
+                className="px-3 py-1 text-xs bg-blue-500 text-white rounded-full font-medium hover:bg-blue-600 transition-colors"
+                title="Learn how to play"
+              >
+                How to Play
               </button>
             </div>
             <p className="text-gray-600">
@@ -186,7 +199,7 @@ const ConnectionsGame = () => {
           ))}
         </div>
 
-        {words.length > 0 && (
+        {words.length > 0 && gameStatus === 'playing' && (
           <WordGrid 
             words={words}
             selectedWords={selectedWords}
@@ -195,14 +208,16 @@ const ConnectionsGame = () => {
           />
         )}
 
-        <GameControls 
-          onShuffle={handleShuffle}
-          onDeselectAll={handleDeselectAll}
-          onSubmit={handleSubmit}
-          selectedCount={selectedWords.length}
-          mistakes={mistakes}
-          gameStatus={gameStatus}
-        />
+        {gameStatus === 'playing' && (
+          <GameControls 
+            onShuffle={handleShuffle}
+            onDeselectAll={handleDeselectAll}
+            onSubmit={handleSubmit}
+            selectedCount={selectedWords.length}
+            mistakes={mistakes}
+            gameStatus={gameStatus}
+          />
+        )}
 
 
         {gameStatus !== 'playing' && (
@@ -213,6 +228,60 @@ const ConnectionsGame = () => {
             >
               Play Again
             </button>
+          </div>
+        )}
+
+        {/* How to Play Modal */}
+        {showHowToPlay && (
+          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+            <div className="bg-white rounded-lg max-w-lg w-full max-h-[90vh] overflow-y-auto">
+              <div className="p-6">
+                <div className="flex justify-between items-center mb-4">
+                  <h2 className="text-2xl font-bold text-gray-900">How to Play</h2>
+                  <button
+                    onClick={() => setShowHowToPlay(false)}
+                    className="text-gray-500 hover:text-gray-700 text-2xl font-bold"
+                  >
+                    ×
+                  </button>
+                </div>
+                
+                <div className="space-y-4 text-gray-700">
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">🎯 Objective</h3>
+                    <p>Find four groups of four related words from the 16-word grid.</p>
+                  </div>
+                  
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">🎮 How to Play</h3>
+                    <ol className="list-decimal list-inside space-y-1">
+                      <li>Click on 4 words you think belong together</li>
+                      <li>Press <strong>Submit</strong> to check your guess</li>
+                      <li>If correct, the category is revealed and removed but if wrong, your selections stay for easy adjustment</li>
+                      <li>Find all 4 categories to win!</li>
+                    </ol>
+                  </div>
+                  
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">⚠️ Mistakes</h3>
+                    <p>You have 4 chances. After 4 wrong guesses, the game ends and all answers are revealed.</p>
+                  </div>
+                  
+                  <div className="bg-blue-50 p-4 rounded-lg">
+                    <p className="text-sm"><strong>Tip:</strong> Look for themes like "Types of pasta," "Things that are red," or "Words ending in -ING."</p>
+                  </div>
+                </div>
+                
+                <div className="mt-6 text-center">
+                  <button
+                    onClick={() => setShowHowToPlay(false)}
+                    className="px-6 py-2 bg-blue-500 text-white rounded-full font-medium hover:bg-blue-600 transition-colors"
+                  >
+                    Got it!
+                  </button>
+                </div>
+              </div>
+            </div>
           </div>
         )}
       </div>
