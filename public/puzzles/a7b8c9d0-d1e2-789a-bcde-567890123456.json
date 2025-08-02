@@ -1,0 +1,22 @@
+{
+  "id": "a7b8c9d0-d1e2-789a-bcde-567890123456",
+  "date": "2025-01-29",
+  "items": [
+    {
+      "name": "Words with 'y' as a vowel",
+      "words": ["Gym", "Myth", "Shy", "Cry"]
+    },
+    {
+      "name": "Things that can be 'bought'",
+      "words": ["Time", "House", "Silence", "Ticket"]
+    },
+    {
+      "name": "Anagrams of 'HEART'",
+      "words": ["Earth", "Hater", "Thera", "Rathe"]
+    },
+    {
+      "name": "Astronomy terms",
+      "words": ["Orbit", "Galaxy", "Nebula", "Comet"]
+    }
+  ]
+}

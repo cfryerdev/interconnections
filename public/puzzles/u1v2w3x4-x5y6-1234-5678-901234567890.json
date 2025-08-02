@@ -1,0 +1,22 @@
+{
+  "id": "u1v2w3x4-x5y6-1234-5678-901234567890",
+  "date": "2025-01-23",
+  "items": [
+    {
+      "name": "Words that are also colors",
+      "words": ["Rose", "Violet", "Orange", "Sage"]
+    },
+    {
+      "name": "Things that can be 'held'",
+      "words": ["Breath", "Hand", "Meeting", "Record"]
+    },
+    {
+      "name": "Anagrams of 'DREAM'",
+      "words": ["Armed", "Derma", "Realm", "Madre"]
+    },
+    {
+      "name": "Physics terms",
+      "words": ["Force", "Energy", "Matter", "Wave"]
+    }
+  ]
+}

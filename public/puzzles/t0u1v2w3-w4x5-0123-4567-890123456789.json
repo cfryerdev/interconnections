@@ -1,0 +1,22 @@
+{
+  "id": "t0u1v2w3-w4x5-0123-4567-890123456789",
+  "date": "2025-01-22",
+  "items": [
+    {
+      "name": "Words with 'c' pronounced as 's'",
+      "words": ["City", "Cycle", "Rice", "Nice"]
+    },
+    {
+      "name": "Things that can be 'dropped'",
+      "words": ["Ball", "Hint", "Call", "Subject"]
+    },
+    {
+      "name": "Words ending in -ous",
+      "words": ["Famous", "Nervous", "Serious", "Curious"]
+    },
+    {
+      "name": "Ancient civilizations",
+      "words": ["Roman", "Greek", "Egyptian", "Mayan"]
+    }
+  ]
+}

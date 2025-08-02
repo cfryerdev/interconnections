@@ -1,0 +1,22 @@
+{
+  "id": "n4o5p6q7-q8r9-abcd-ef01-234567890123",
+  "date": "2025-01-16",
+  "items": [
+    {
+      "name": "Words with silent W",
+      "words": ["Write", "Wrong", "Wrist", "Wreck"]
+    },
+    {
+      "name": "Things that can be 'closed'",
+      "words": ["Book", "Deal", "Gap", "Case"]
+    },
+    {
+      "name": "Words ending in -ism",
+      "words": ["Prism", "Schism", "Realism", "Tourism"]
+    },
+    {
+      "name": "Mythology creatures",
+      "words": ["Phoenix", "Griffin", "Sphinx", "Kraken"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "v8w9x0y1-y2z3-cdef-0123-678901234567",
+  "date": "2025-02-19",
+  "items": [
+    {
+      "name": "Words with 'ew' pronounced as 'oo'",
+      "words": ["New", "Crew", "Flew", "Grew"]
+    },
+    {
+      "name": "Things that can be 'locked'",
+      "words": ["Door", "Phone", "Horn", "Eyes"]
+    },
+    {
+      "name": "Words ending in -est",
+      "words": ["Best", "Test", "Rest", "Nest"]
+    },
+    {
+      "name": "Computer file types",
+      "words": ["PDF", "DOC", "JPG", "MP3"]
+    }
+  ]
+}

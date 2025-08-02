@@ -1,0 +1,22 @@
+{
+  "id": "y5z6a7b8-b9c0-5678-9abc-345678901234",
+  "date": "2025-01-27",
+  "items": [
+    {
+      "name": "Words that are also body parts",
+      "words": ["Palm", "Sole", "Temple", "Crown"]
+    },
+    {
+      "name": "Things that can be 'won'",
+      "words": ["Prize", "Game", "Heart", "Battle"]
+    },
+    {
+      "name": "Anagrams of 'TEACH'",
+      "words": ["Cheat", "Theca", "Ache", "Chat"]
+    },
+    {
+      "name": "Architecture terms",
+      "words": ["Arch", "Column", "Dome", "Beam"]
+    }
+  ]
+}

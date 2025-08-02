@@ -1,0 +1,22 @@
+{
+  "id": "j6k7l8m9-m0n1-0123-4567-456789012345",
+  "date": "2025-02-07",
+  "items": [
+    {
+      "name": "Words with 'th' pronounced differently",
+      "words": ["Think", "This", "Thames", "Thyme"]
+    },
+    {
+      "name": "Things that can be 'built'",
+      "words": ["House", "Relationship", "Character", "Bridge"]
+    },
+    {
+      "name": "Words ending in -tion",
+      "words": ["Action", "Fiction", "Motion", "Caution"]
+    },
+    {
+      "name": "Psychology terms",
+      "words": ["Memory", "Emotion", "Behavior", "Cognitive"]
+    }
+  ]
+}

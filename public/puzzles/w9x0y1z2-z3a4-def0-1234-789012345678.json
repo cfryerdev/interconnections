@@ -1,0 +1,22 @@
+{
+  "id": "w9x0y1z2-z3a4-def0-1234-789012345678",
+  "date": "2025-02-20",
+  "items": [
+    {
+      "name": "Words that are also dance types",
+      "words": ["Waltz", "Tango", "Swing", "Twist"]
+    },
+    {
+      "name": "Things that can be 'crossed'",
+      "words": ["Bridge", "Line", "Finger", "Path"]
+    },
+    {
+      "name": "Anagrams of 'LIGHT'",
+      "words": ["Hilt", "Gilt", "Gliht", "Tligh"]
+    },
+    {
+      "name": "Optical terms",
+      "words": ["Lens", "Focus", "Refraction", "Spectrum"]
+    }
+  ]
+}

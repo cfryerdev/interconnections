@@ -1,0 +1,22 @@
+{
+  "id": "o5p6q7r8-r9s0-bcde-f012-345678901234",
+  "date": "2025-01-17",
+  "items": [
+    {
+      "name": "Words that are both nouns and verbs",
+      "words": ["Table", "Chair", "Bottle", "Phone"]
+    },
+    {
+      "name": "Things that can be 'cut'",
+      "words": ["Grass", "Corner", "Cake", "Deal"]
+    },
+    {
+      "name": "Anagrams of 'ANGEL'",
+      "words": ["Glean", "Angle", "Lange", "Galen"]
+    },
+    {
+      "name": "Words with 'x' pronounced as 'z'",
+      "words": ["Xylophone", "Xerox", "Anxiety", "Example"]
+    }
+  ]
+}

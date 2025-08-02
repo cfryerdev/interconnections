@@ -1,0 +1,22 @@
+{
+  "id": "r8s9t0u1-u2v3-ef01-2345-678901234567",
+  "date": "2025-01-20",
+  "items": [
+    {
+      "name": "Words with silent D",
+      "words": ["Wednesday", "Handsome", "Sandwich", "Landscape"]
+    },
+    {
+      "name": "Things that can be 'followed'",
+      "words": ["Road", "Rule", "Lead", "Trend"]
+    },
+    {
+      "name": "Words ending in -ough with different sounds",
+      "words": ["Enough", "Through", "Plough", "Cough"]
+    },
+    {
+      "name": "Musical note names",
+      "words": ["Sharp", "Flat", "Natural", "Rest"]
+    }
+  ]
+}

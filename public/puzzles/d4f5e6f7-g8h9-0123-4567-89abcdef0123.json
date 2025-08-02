@@ -1,0 +1,22 @@
+{
+  "id": "d4f5e6f7-g8h9-0123-4567-89abcdef0123",
+  "date": "2025-01-06",
+  "items": [
+    {
+      "name": "Words ending in -tion",
+      "words": ["Nation", "Station", "Creation", "Vacation"]
+    },
+    {
+      "name": "Compound words split",
+      "words": ["Sun", "Flower", "Rain", "Bow"]
+    },
+    {
+      "name": "Rhymes with 'eight'",
+      "words": ["Great", "Weight", "Straight", "Gate"]
+    },
+    {
+      "name": "French words in English",
+      "words": ["Elite", "Boutique", "Cafe", "Genre"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "r4s5t6u7-u8v9-89ab-cdef-234567890123",
+  "date": "2025-02-15",
+  "items": [
+    {
+      "name": "Words with 'rh' pronounced as 'r'",
+      "words": ["Rhyme", "Rhythm", "Rhinoceros", "Rhubarb"]
+    },
+    {
+      "name": "Things that can be 'killed'",
+      "words": ["Time", "Joke", "Engine", "Mood"]
+    },
+    {
+      "name": "Words ending in -ary",
+      "words": ["Library", "Primary", "Secondary", "Necessary"]
+    },
+    {
+      "name": "Mythology gods",
+      "words": ["Zeus", "Thor", "Odin", "Apollo"]
+    }
+  ]
+}

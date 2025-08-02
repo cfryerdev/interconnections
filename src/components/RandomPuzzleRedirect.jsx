@@ -6,8 +6,11 @@ const RandomPuzzleRedirect = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    const randomPuzzleId = getRandomPuzzleId();
-    navigate(`/puzzle/${randomPuzzleId}`, { replace: true });
+    const redirectToRandomPuzzle = async () => {
+      const randomPuzzleId = await getRandomPuzzleId();
+      navigate(`/puzzle/${randomPuzzleId}`, { replace: true });
+    };
+    redirectToRandomPuzzle();
   }, [navigate]);
 
   return (

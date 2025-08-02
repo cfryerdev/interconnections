@@ -1,0 +1,22 @@
+{
+  "id": "p6q7r8s9-s0t1-cdef-0123-456789012345",
+  "date": "2025-01-18",
+  "items": [
+    {
+      "name": "Words ending in -gue",
+      "words": ["Vague", "Rogue", "League", "Plague"]
+    },
+    {
+      "name": "Things that can be 'kept'",
+      "words": ["Secret", "Promise", "Time", "Record"]
+    },
+    {
+      "name": "Words with 'oo' pronounced differently",
+      "words": ["Book", "Moon", "Floor", "Blood"]
+    },
+    {
+      "name": "Philosophical concepts",
+      "words": ["Ethics", "Logic", "Truth", "Beauty"]
+    }
+  ]
+}

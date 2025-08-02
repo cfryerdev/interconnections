@@ -1,0 +1,22 @@
+{
+  "id": "i5j6k7l8-l9m0-f012-3456-345678901234",
+  "date": "2025-02-06",
+  "items": [
+    {
+      "name": "Words that are both animals and verbs",
+      "words": ["Duck", "Fish", "Chicken", "Bear"]
+    },
+    {
+      "name": "Things that can be 'caught'",
+      "words": ["Fire", "Disease", "Drift", "Sleep"]
+    },
+    {
+      "name": "Anagrams of 'DANCE'",
+      "words": ["Caned", "Acned", "Decna", "Cenda"]
+    },
+    {
+      "name": "Economics terms",
+      "words": ["Supply", "Demand", "Market", "Trade"]
+    }
+  ]
+}

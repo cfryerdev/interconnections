@@ -1,0 +1,22 @@
+{
+  "id": "u7v8w9x0-x1y2-bcde-f012-567890123456",
+  "date": "2025-02-18",
+  "items": [
+    {
+      "name": "Words that are also card suits",
+      "words": ["Club", "Diamond", "Heart", "Spade"]
+    },
+    {
+      "name": "Things that can be 'stopped'",
+      "words": ["Clock", "Traffic", "Rain", "Show"]
+    },
+    {
+      "name": "Anagrams of 'FRESH'",
+      "words": ["Herfs", "Sherif", "Fhers", "Rhesf"]
+    },
+    {
+      "name": "Linguistic terms",
+      "words": ["Noun", "Verb", "Adjective", "Adverb"]
+    }
+  ]
+}

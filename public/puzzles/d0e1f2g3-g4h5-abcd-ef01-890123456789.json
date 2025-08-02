@@ -1,0 +1,22 @@
+{
+  "id": "d0e1f2g3-g4h5-abcd-ef01-890123456789",
+  "date": "2025-02-01",
+  "items": [
+    {
+      "name": "Words with 'mb' where 'b' is silent",
+      "words": ["Thumb", "Bomb", "Comb", "Womb"]
+    },
+    {
+      "name": "Things that can be 'missed'",
+      "words": ["Train", "Point", "Call", "Opportunity"]
+    },
+    {
+      "name": "Words ending in -ful",
+      "words": ["Careful", "Helpful", "Peaceful", "Wonderful"]
+    },
+    {
+      "name": "Geography terms",
+      "words": ["Valley", "Canyon", "Ridge", "Plain"]
+    }
+  ]
+}

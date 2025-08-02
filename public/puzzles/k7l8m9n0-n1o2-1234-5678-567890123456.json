@@ -1,0 +1,22 @@
+{
+  "id": "k7l8m9n0-n1o2-1234-5678-567890123456",
+  "date": "2025-02-08",
+  "items": [
+    {
+      "name": "Words that are also computer terms",
+      "words": ["Mouse", "Window", "Menu", "Icon"]
+    },
+    {
+      "name": "Things that can be 'shared'",
+      "words": ["Secret", "Food", "Experience", "Link"]
+    },
+    {
+      "name": "Anagrams of 'OCEAN'",
+      "words": ["Canoe", "Cane", "Once", "Cone"]
+    },
+    {
+      "name": "Medical terms",
+      "words": ["Pulse", "Fever", "Symptom", "Diagnosis"]
+    }
+  ]
+}

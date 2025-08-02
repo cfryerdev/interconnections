@@ -1,0 +1,22 @@
+{
+  "id": "b8c9d0e1-e2f3-89ab-cdef-678901234567",
+  "date": "2025-01-30",
+  "items": [
+    {
+      "name": "Words with 'sch' pronounced as 'sk'",
+      "words": ["School", "Schedule", "Scholar", "Scheme"]
+    },
+    {
+      "name": "Things that can be 'sold'",
+      "words": ["House", "Idea", "Story", "Soul"]
+    },
+    {
+      "name": "Words ending in -ion",
+      "words": ["Motion", "Potion", "Nation", "Station"]
+    },
+    {
+      "name": "Chess pieces",
+      "words": ["Pawn", "Rook", "Bishop", "Knight"]
+    }
+  ]
+}

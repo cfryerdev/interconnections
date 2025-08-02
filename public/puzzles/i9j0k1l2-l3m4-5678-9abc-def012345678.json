@@ -1,0 +1,22 @@
+{
+  "id": "i9j0k1l2-l3m4-5678-9abc-def012345678",
+  "date": "2025-01-11",
+  "items": [
+    {
+      "name": "Contronyms (self-opposite words)",
+      "words": ["Dust", "Seed", "Trim", "Screen"]
+    },
+    {
+      "name": "Things that can be 'played'",
+      "words": ["Card", "Role", "Instrument", "Game"]
+    },
+    {
+      "name": "Words ending in -ph",
+      "words": ["Graph", "Photo", "Phone", "Morph"]
+    },
+    {
+      "name": "Spice names",
+      "words": ["Sage", "Thyme", "Basil", "Mint"]
+    }
+  ]
+}

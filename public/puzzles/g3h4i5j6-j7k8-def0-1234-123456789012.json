@@ -1,0 +1,22 @@
+{
+  "id": "g3h4i5j6-j7k8-def0-1234-123456789012",
+  "date": "2025-02-04",
+  "items": [
+    {
+      "name": "Words that are also currencies",
+      "words": ["Pound", "Mark", "Crown", "Franc"]
+    },
+    {
+      "name": "Things that can be 'earned'",
+      "words": ["Money", "Respect", "Degree", "Points"]
+    },
+    {
+      "name": "Anagrams of 'SMART'",
+      "words": ["Trams", "Mstar", "Stram", "Rmats"]
+    },
+    {
+      "name": "Cooking methods",
+      "words": ["Boil", "Fry", "Bake", "Steam"]
+    }
+  ]
+}

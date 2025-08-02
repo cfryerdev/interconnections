@@ -1,0 +1,22 @@
+{
+  "id": "g7h8i9j0-j1k2-3456-789a-bcdef0123456",
+  "date": "2025-01-09",
+  "items": [
+    {
+      "name": "Words with 'ough' pronounced differently",
+      "words": ["Rough", "Bough", "Thought", "Hiccough"]
+    },
+    {
+      "name": "Things that can be 'drawn'",
+      "words": ["Picture", "Bath", "Curtain", "Conclusion"]
+    },
+    {
+      "name": "Anagrams of 'EARTH'",
+      "words": ["Heart", "Hater", "Thera", "Rathe"]
+    },
+    {
+      "name": "Mathematical terms",
+      "words": ["Prime", "Root", "Sum", "Product"]
+    }
+  ]
+}

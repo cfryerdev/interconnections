@@ -1,0 +1,22 @@
+{
+  "id": "z6a7b8c9-c0d1-6789-abcd-456789012345",
+  "date": "2025-01-28",
+  "items": [
+    {
+      "name": "Words with 'qu' pronounced as 'k'",
+      "words": ["Queue", "Antique", "Bouquet", "Croquet"]
+    },
+    {
+      "name": "Things that can be 'found'",
+      "words": ["Key", "Truth", "Way", "Solution"]
+    },
+    {
+      "name": "Words ending in -ness",
+      "words": ["Kindness", "Darkness", "Madness", "Sadness"]
+    },
+    {
+      "name": "Literary devices",
+      "words": ["Irony", "Symbol", "Theme", "Plot"]
+    }
+  ]
+}

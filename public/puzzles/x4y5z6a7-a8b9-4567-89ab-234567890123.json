@@ -1,0 +1,22 @@
+{
+  "id": "x4y5z6a7-a8b9-4567-89ab-234567890123",
+  "date": "2025-01-26",
+  "items": [
+    {
+      "name": "Words with silent T",
+      "words": ["Castle", "Listen", "Christmas", "Often"]
+    },
+    {
+      "name": "Things that can be 'saved'",
+      "words": ["Money", "Life", "Time", "File"]
+    },
+    {
+      "name": "Words ending in -ment",
+      "words": ["Movement", "Payment", "Treatment", "Agreement"]
+    },
+    {
+      "name": "Ocean terms",
+      "words": ["Tide", "Current", "Depth", "Reef"]
+    }
+  ]
+}

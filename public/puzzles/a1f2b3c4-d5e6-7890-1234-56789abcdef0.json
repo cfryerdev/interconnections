@@ -1,0 +1,22 @@
+{
+  "id": "a1f2b3c4-d5e6-7890-1234-56789abcdef0",
+  "date": "2025-01-03",
+  "items": [
+    {
+      "name": "Homophones of letters",
+      "words": ["Tea", "Bee", "Sea", "Pea"]
+    },
+    {
+      "name": "Things that can be 'broken'",
+      "words": ["News", "Record", "Heart", "Fast"]
+    },
+    {
+      "name": "Silent K words",
+      "words": ["Knight", "Knot", "Knife", "Knee"]
+    },
+    {
+      "name": "Words ending in -ough",
+      "words": ["Through", "Tough", "Cough", "Dough"]
+    }
+  ]
+}

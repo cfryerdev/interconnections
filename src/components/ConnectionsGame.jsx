@@ -156,8 +156,8 @@ const ConnectionsGame = () => {
             </div>
             <div className="flex justify-center gap-3 mb-2">
               <button
-                onClick={() => {
-                  const randomId = getRandomPuzzleId(puzzle.id);
+                onClick={async () => {
+                  const randomId = await getRandomPuzzleId(puzzle.id);
                   navigate(`/puzzle/${randomId}`);
                 }}
                 className="px-3 py-1 text-xs bg-green-500 text-white rounded-full font-medium hover:bg-green-600 transition-colors"
@@ -173,9 +173,6 @@ const ConnectionsGame = () => {
                 How to Play
               </button>
             </div>
-            <p className="text-gray-600">
-              Create four groups of four!
-            </p>
           </div>
         )}
 

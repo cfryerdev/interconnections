@@ -1,0 +1,22 @@
+{
+  "id": "l8m9n0o1-o2p3-2345-6789-678901234567",
+  "date": "2025-02-09",
+  "items": [
+    {
+      "name": "Words with 'ck' making 'k' sound",
+      "words": ["Back", "Luck", "Quick", "Block"]
+    },
+    {
+      "name": "Things that can be 'fixed'",
+      "words": ["Problem", "Date", "Price", "Gaze"]
+    },
+    {
+      "name": "Words ending in -less",
+      "words": ["Hopeless", "Endless", "Fearless", "Mindless"]
+    },
+    {
+      "name": "Sports terms",
+      "words": ["Score", "Team", "League", "Season"]
+    }
+  ]
+}

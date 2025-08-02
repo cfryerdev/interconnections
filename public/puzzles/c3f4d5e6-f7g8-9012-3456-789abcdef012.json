@@ -1,0 +1,22 @@
+{
+  "id": "c3f4d5e6-f7g8-9012-3456-789abcdef012",
+  "date": "2025-01-05",
+  "items": [
+    {
+      "name": "Words that sound like numbers",
+      "words": ["Won", "Too", "Ate", "For"]
+    },
+    {
+      "name": "Things that can be 'done'",
+      "words": ["Hair", "Deal", "Time", "Dishes"]
+    },
+    {
+      "name": "Palindromes",
+      "words": ["Level", "Radar", "Civic", "Rotor"]
+    },
+    {
+      "name": "Chemistry elements symbols",
+      "words": ["Gold", "Silver", "Iron", "Lead"]
+    }
+  ]
+}

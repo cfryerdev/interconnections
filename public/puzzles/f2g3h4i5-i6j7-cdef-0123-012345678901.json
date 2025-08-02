@@ -1,0 +1,22 @@
+{
+  "id": "f2g3h4i5-i6j7-cdef-0123-012345678901",
+  "date": "2025-02-03",
+  "items": [
+    {
+      "name": "Words with 'kn' where 'k' is silent",
+      "words": ["Know", "Knit", "Knock", "Kneel"]
+    },
+    {
+      "name": "Things that can be 'spent'",
+      "words": ["Money", "Time", "Energy", "Night"]
+    },
+    {
+      "name": "Words ending in -ly as adverbs",
+      "words": ["Quickly", "Slowly", "Clearly", "Deeply"]
+    },
+    {
+      "name": "Theatre terms",
+      "words": ["Stage", "Wings", "Curtain", "Props"]
+    }
+  ]
+}

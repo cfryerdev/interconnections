@@ -1,0 +1,22 @@
+{
+  "id": "q3r4s5t6-t7u8-789a-bcde-123456789012",
+  "date": "2025-02-14",
+  "items": [
+    {
+      "name": "Words that are also kitchen items",
+      "words": ["Fork", "Spoon", "Plate", "Bowl"]
+    },
+    {
+      "name": "Things that can be 'pressed'",
+      "words": ["Button", "Flower", "Suit", "Charges"]
+    },
+    {
+      "name": "Anagrams of 'MUSIC'",
+      "words": ["Cuims", "Micus", "Scumi", "Icmus"]
+    },
+    {
+      "name": "Weather instruments",
+      "words": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "s5t6u7v8-v9w0-9abc-def0-345678901234",
+  "date": "2025-02-16",
+  "items": [
+    {
+      "name": "Words that are also fabric types",
+      "words": ["Cotton", "Silk", "Wool", "Linen"]
+    },
+    {
+      "name": "Things that can be 'lifted'",
+      "words": ["Weight", "Spirits", "Ban", "Finger"]
+    },
+    {
+      "name": "Anagrams of 'PEACE'",
+      "words": ["Caped", "Paced", "Cepaa", "Peac"]
+    },
+    {
+      "name": "Mathematical operations",
+      "words": ["Add", "Subtract", "Multiply", "Divide"]
+    }
+  ]
+}

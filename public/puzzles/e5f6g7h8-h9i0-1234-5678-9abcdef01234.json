@@ -1,0 +1,22 @@
+{
+  "id": "e5f6g7h8-h9i0-1234-5678-9abcdef01234",
+  "date": "2025-01-07",
+  "items": [
+    {
+      "name": "Words with silent B",
+      "words": ["Thumb", "Lamb", "Climb", "Tomb"]
+    },
+    {
+      "name": "Things that can be 'caught'",
+      "words": ["Ball", "Cold", "Breath", "Attention"]
+    },
+    {
+      "name": "Unusual plurals",
+      "words": ["Geese", "Mice", "Feet", "Teeth"]
+    },
+    {
+      "name": "Shakespeare plays",
+      "words": ["Hamlet", "Othello", "Macbeth", "Romeo"]
+    }
+  ]
+}

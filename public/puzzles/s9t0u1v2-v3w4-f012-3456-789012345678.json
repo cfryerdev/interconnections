@@ -1,0 +1,22 @@
+{
+  "id": "s9t0u1v2-v3w4-f012-3456-789012345678",
+  "date": "2025-01-21",
+  "items": [
+    {
+      "name": "Words that are acronyms",
+      "words": ["Radar", "Scuba", "Laser", "Sonar"]
+    },
+    {
+      "name": "Things that can be 'raised'",
+      "words": ["Hand", "Voice", "Question", "Flag"]
+    },
+    {
+      "name": "Anagrams of 'NIGHT'",
+      "words": ["Thing", "Right", "Sight", "Light"]
+    },
+    {
+      "name": "Words with 'ph' sounding like 'f'",
+      "words": ["Phone", "Photo", "Graph", "Trophy"]
+    }
+  ]
+}
