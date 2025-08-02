@@ -143,6 +143,50 @@ Each puzzle has a unique shareable URL:
 ```
 3. Add the GUID to `getAvailablePuzzleIds()` in `puzzleLoader.js`
 
+## 📝 Puzzle Creation Guidelines
+
+Want to contribute new puzzles? Follow these **CRITICAL RULES** to ensure quality and functionality:
+
+### 🚨 Must-Follow Rules (Game-Breaking if Violated)
+
+1. **NO DUPLICATE WORDS** - Each puzzle must have exactly 16 unique words
+   - Every word appears only once per puzzle
+   - Duplicates make puzzles unsolvable
+
+2. **EXACT COUNT** - 4 categories × 4 words each = 16 total words
+
+3. **UNIQUE GUID** - Generate a new GUID for each puzzle file
+
+### 📋 Quality Standards
+
+4. **Clear Categories** - All 4 words must obviously belong together
+5. **No Overlap** - Words shouldn't fit multiple categories  
+6. **Balanced Difficulty** - Mix easy and challenging categories
+7. **Broad Appeal** - Use commonly known references, avoid niche topics
+
+### ✅ Validation Checklist
+
+Before submitting any puzzle:
+- [ ] Exactly 16 unique words (check for duplicates!)
+- [ ] 4 categories with 4 words each
+- [ ] Unique GUID filename and id
+- [ ] All words clearly belong to assigned category
+- [ ] No ambiguous words that fit multiple categories
+- [ ] Valid JSON format
+- [ ] Added GUID to `puzzleLoader.js`
+
+### 🎯 Great Category Examples
+
+- **Word Play**: Compound words, rhyming words, prefixes/suffixes
+- **Pop Culture**: Movie franchises, musicians, TV shows
+- **Everyday Items**: Kitchen tools, school supplies, clothing
+- **Science**: Animals, planets, body parts, elements
+- **Abstract**: Colors, emotions, time periods
+
+**Remember**: Quality over quantity! Well-tested puzzles are infinitely better than broken ones.
+
+For complete rules and examples, see `CLAUDE.md`.
+
 ## 🤝 Contributing
 
 1. Fork the repository

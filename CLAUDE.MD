@@ -211,12 +211,109 @@ Use React Router hooks:
 - Clear visual hierarchy
 - Consistent button styling across components
 
+## Puzzle Generation Rules
+
+When creating new puzzles for Interconnections, **STRICT ADHERENCE** to these rules is required to ensure game functionality and quality:
+
+### 🚨 Critical Requirements (Game-Breaking if Violated)
+
+1. **NO DUPLICATE WORDS**: Each puzzle must contain exactly 16 unique words
+   - Each word can appear only ONCE per puzzle
+   - Duplicates make puzzles unsolvable (game cannot determine correct category)
+   - Always validate: flatten all words and check for duplicates
+
+2. **EXACT WORD COUNT**: Each category must have exactly 4 words
+   - No more, no less than 4 words per category
+   - Total of 16 words per puzzle across 4 categories
+
+3. **UNIQUE GUID**: Each puzzle file must have a unique GUID as filename and id
+   - Use proper GUID format: `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
+   - Never reuse existing GUIDs from the 106 current puzzles
+
+### 📋 Quality Standards
+
+4. **CLEAR CATEGORIZATION**: All 4 words in a category must be clearly related
+   - Avoid ambiguous connections that could fit multiple categories
+   - Ensure average players can understand the connection
+   - Test: "Would a player reasonably group these 4 words together?"
+
+5. **NO CROSS-CATEGORY OVERLAP**: Words should not fit multiple categories
+   - Example: Avoid "Apple" in both "Fruits" and "Tech Companies"
+   - Each word should have one clear, obvious category home
+
+6. **APPROPRIATE DIFFICULTY PROGRESSION**: Categories should vary in difficulty
+   - Mix obvious connections with more challenging ones
+   - Avoid making all categories too easy or impossibly hard
+
+7. **CULTURAL ACCESSIBILITY**: Use broadly known references
+   - Prefer common knowledge over niche expertise
+   - Avoid extremely regional or time-sensitive references
+   - Consider international audience familiarity
+
+### 🎯 Theme Guidelines
+
+8. **DIVERSE THEMES**: Create varied, engaging categories such as:
+   - **Word Play**: Compound words, rhyming words, words ending in same suffix
+   - **Pop Culture**: Movies, music, TV shows, celebrities (but not too niche)
+   - **everyday Objects**: Kitchen items, school supplies, clothing
+   - **Academic**: Science terms, historical figures, geography
+   - **Abstract Concepts**: Colors, emotions, time periods
+
+9. **THEMATIC CONSISTENCY**: Within each category, maintain coherent themes
+   - "Types of Pasta" not "Italian Things" (too broad)
+   - "Olympic Sports" not "Sports" (more specific is better)
+
+10. **BALANCED DIFFICULTY**: Aim for one category per difficulty level:
+    - **Green (Easiest)**: Very obvious connections
+    - **Purple (Medium)**: Moderately challenging 
+    - **Yellow (Hard)**: Requires thought or knowledge
+    - **Blue (Hardest)**: Clever wordplay or subtle connections
+
+### 🔧 Technical Implementation
+
+11. **PROPER JSON FORMAT**: Follow exact structure:
+```json
+{
+  "id": "unique-guid-here",
+  "date": "YYYY-MM-DD",
+  "items": [
+    {
+      "name": "Category Name",
+      "words": ["Word1", "Word2", "Word3", "Word4"]
+    }
+  ]
+}
+```
+
+12. **UPDATE PUZZLE LOADER**: Add new puzzle GUIDs to `getAvailablePuzzleIds()` in `puzzleLoader.js`
+
+13. **VALIDATION CHECKLIST**: Before submitting any puzzle, verify:
+    - [ ] Exactly 16 unique words (no duplicates)
+    - [ ] 4 categories with 4 words each
+    - [ ] Unique GUID used for filename and id
+    - [ ] All words clearly belong to their assigned category
+    - [ ] No words could reasonably fit multiple categories
+    - [ ] JSON is properly formatted and valid
+    - [ ] Category names are descriptive and accurate
+
+### ⚠️ Common Pitfalls to Avoid
+
+- **Homonyms/Homophones**: Words with multiple meanings that could confuse categorization
+- **Proper Nouns**: Overly specific names that may not be universally known
+- **Ambiguous Words**: Terms that could reasonably fit 2+ categories
+- **Inconsistent Difficulty**: All categories being too easy or too hard
+- **Cultural Bias**: References that exclude international players
+- **Temporal Sensitivity**: References that will become outdated quickly
+
+**Remember**: Quality over quantity. A smaller number of well-crafted, tested puzzles is infinitely better than many puzzles with quality issues.
+
 ## Testing Considerations
 - Test with various puzzle configurations
 - Verify shuffle maintains game state correctly
 - Ensure responsive design works across devices
 - Test edge cases (rapid clicking, invalid selections)
 - Validate accessibility features (keyboard navigation, screen readers)
+- **CRITICAL**: Test new puzzles for duplicate words and solvability
 
 ## Implemented Features
 ✅ **URL-based puzzle sharing**: Each puzzle has unique shareable URL

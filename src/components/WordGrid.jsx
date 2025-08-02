@@ -31,7 +31,7 @@ const WordGrid = ({ words, selectedWords, onWordClick, foundCategories }) => {
           onClick={() => onWordClick(word)}
           disabled={isWordFound(word)}
           className={`
-            aspect-square p-2 rounded-lg font-medium text-sm
+            aspect-square p-2 rounded-lg font-medium text-xs sm:text-sm
             transition-all duration-200 border-2 border-transparent
             ${getWordButtonClass(word)}
             focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2
